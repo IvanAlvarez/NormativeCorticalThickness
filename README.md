@@ -1,1 +1,1 @@
-To view webpage, please navigate to https://ivanalvarez.github.io/NormativeCorticalThickness
+To view, navigate to https://ivanalvarez.github.io/NormativeCorticalThickness
